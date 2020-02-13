@@ -1,3 +1,4 @@
-**T**ry **t**o **h**ack **m**e **n**ow
+# Try to hack me now
 
-Repository for cheatsheets on pen test and forensic tools
+
+Personal repository for guides and cheatsheets on it security, pen test and forensic tools.
